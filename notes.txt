@@ -2,4 +2,5 @@ I am learning how to create files and folders in git and making repository.
 I am learning how to keep track and view channges.
 I am learning how to push my code into the hub. Also how to clone and create branches to wok on code
 I am learning that in order to remember what I call formulas (code lines) it's a lot of repition  for me. 
+adding one more line for git commit practice
 
