@@ -4,4 +4,3 @@ I am learning how to push my code into the hub. Also how to clone and create bra
 I am learning that in order to remember what I call formulas (code lines) it's a lot of repition  for me. 
 adding one more line for git commit practice
 not sure why in my log it's not showing the other commits but I'll another one now.
-
